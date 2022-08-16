@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.content{
+    margin-top: 250px;
+}
+.top{
+    float: left;
+    width: 100%;    
+    background-color: #130b58;
+    color: #ffffff;
+    font-size:1.5rem;
+    font-weight: lighter;
+    padding: 25px 0px;
+}
+.logo-details{
+    float: left;
+    width: 50%;
+    padding-left: 100px;
+    margin-top: 5px;
+    font-size: 30px;
+}
+.media-icons{
+    float: left;
+    width: 20%;
+    padding-left: 300px;
+}
+.fa-facebook-f{
+    background-color: #4a66ad;
+    margin: 5px;
+    border-radius: 100%;
+    font-size: 15px;
+    padding: 10px;
+}
+.fa-twitter{
+    background-color: #4d9feb;
+    margin: 5px;
+    border-radius: 100%;
+    font-size: 15px;
+    padding: 10px;
+}
+.fa-instagram{
+    background-color: #cf416d;
+    margin: 5px;
+    border-radius: 100%;
+    font-size: 15px;
+    padding: 10px;
+}
+.fa-linkedin-in{
+    background-color: #3375b0;
+    margin: 5px;
+    border-radius: 100%;
+    font-size: 15px;
+    padding: 10px;
+}
+.fa-youtube{
+    background-color: #ea3323;
+    margin: 5px;
+    border-radius: 100%;
+    font-size: 15px;
+    padding: 10px;
+}
+.link-boxes{
+    margin-top: 1px;
+    float: left;
+    width: 100%;
+    background-color: #130b58;
+    color: #ffffff;
+}
+.link-boxes .link_name{
+    font-size: 20px;
+    font-weight: 300px;
+    display: inline-block;
+    position: relative;
+}
+.link-boxes .link_name:before{
+    content: "";
+    position: absolute;
+    width: 50%;
+    height: 1px;
+    bottom: 0;
+    border-bottom: 2px solid #ffffff;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+.box{
+    float: left;
+    width: 11%;
+    list-style: none;
+    margin-left: 95px;
+    padding: 50px 0px;
+    line-height: 2;
+}
+.box input[type=text]{
+    background-color: transparent;
+    color: #ffffff;
+    border-color: #ffffff;
+    padding: 10px;
+    border-radius: 3px;
+    margin-top: 8px;
+    width: 275px;
+    font-weight: lighter;
+
+}
+.box input[type=button]{
+    background-color: #d0cede;
+    color: #130b58;
+    border-color: transparent;
+    border-radius: 3px;
+    padding: 10px;
+    margin-top: 8px;
+    width: 300px;
+}
+.bottom_text{
+    float: left;
+    width: 100%;
+    background-color: #0E0841;
+    color: #fff;
+    padding: 25px 0px;
+}
+.bottom_text a{
+    padding-left: 20px;
+}
+.copyright_text{
+    float: left;
+    width: 30%;
+    padding-left: 100px;
+}
+.policy_terms{
+    float: left;
+    width: 20%;
+    padding-left: 590px;
+}

@@ -1,0 +1,30 @@
+.container{
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 20%;
+}
+a{
+    text-decoration: none;
+}
+span>b{
+    background-color: #4d96ec;
+    color: #ffffff;
+    padding: 15px 30px;
+    border-radius: 3px;
+    font-size: 20px;
+    
+}
+.btn{
+    position: relative;
+    display: inline-block;
+}
+.badge{
+    background-color: #242B2E;
+    color: #ffffff; 
+    padding: 5px 10px;
+    font-size: 15px;
+    border-radius: 50%;
+    top: -25px;
+    right: -12px;
+    position: absolute;
+}

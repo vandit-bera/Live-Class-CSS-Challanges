@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+}
+.div__btn{
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 20%;
+}
+.btn{
+    background-color: #000;
+    color: #ffffff;
+    padding: 7px 15px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.btn:hover{
+    border:3px solid  #ffff54;
+    box-shadow: #ffff54 0px 0px 10px 1px;
+}

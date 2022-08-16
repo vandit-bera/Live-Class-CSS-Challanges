@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css?family=Indie+Flower");
+
+body{
+    font-family: "Indie Flower";
+    font-size: large;
+}
+hr{
+   border: 2px solid #000;
+}
+th{
+    color: red;
+}
+th,td{
+    background-color: #a0fcd6;
+}
+.myTable caption{
+    text-transform: uppercase;
+}

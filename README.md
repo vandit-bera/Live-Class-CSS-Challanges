@@ -74,7 +74,7 @@ For this Challanges i took around `5 to 6 days` to complete it. The major portio
 - **Email 📧:** [vanditbera@gmail.com](mailto:vanditbera@gmail.com)
 - **Blog 📝:** [blogs.Vandit2510.in](https://vandit-bera.hashnode.dev/)
 
-Project Link: [GitHub]()
+Project Link: [GitHub](https://github.com/vandit-bera/Live-Class-CSS-Challanges)
 
 
 <!-- Linkedin -->
